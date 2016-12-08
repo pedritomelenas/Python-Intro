@@ -2,3 +2,7 @@
 Introducción a python (y sympy)
 
 En este repositorio hay blocs de `jupyter` con tutoriales básicos para `python` y `SymPy`
+
+Para más información, usad el [tutorial de `python`](https://docs.python.org/3/tutorial/) y de [`SymPy`](http://docs.sympy.org/latest/tutorial/index.html) 
+
+Se han proporcionado referencias adicionales en los blocs
