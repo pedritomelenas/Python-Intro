@@ -7,4 +7,4 @@ Para más información, usad el [tutorial de `python`](https://docs.python.org/3
 
 Se han proporcionado referencias adicionales en los blocs
 
-Este repositorio se puede ejecutar en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedritomelenas/Python-Intro/master)
+Este repositorio se puede ejecutar en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedritomelenas/Python-Intro/master) o bien en [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/pedritomelenas/projects/python-intro)
