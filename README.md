@@ -9,6 +9,6 @@ Se han proporcionado referencias adicionales en los blocs
 
 Este repositorio se puede ejecutar en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedritomelenas/Python-Intro/master) y también en [google colab](https://colab.research.google.com/?hl=es):
 
-- Iniciación python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pedritomelenas/Python-Intro/blob/master/iniciacion-python.ipynb)
-- Introducción a sympy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pedritomelenas/Python-Intro/blob/master/introduccion-sympy.ipynb)
+- Iniciación python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pedritomelenas/Python-Intro/blob/master/iniciacion-python.ipynb)
+- Introducción a sympy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pedritomelenas/Python-Intro/blob/master/introduccion-sympy.ipynb)
 
